@@ -18,3 +18,5 @@ internal class GetProductByCategoryQueryHandler
         return new GetProductByCategoryResult(products);
     }
 }
+
+
